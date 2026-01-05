@@ -19,6 +19,12 @@ Estudiante de Ingeniería Electrónica en la Universidad Nacional de San Martín
 
 
 <div align="center">
-<a href="https://github.com/sebolla-gif" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebolla-gif&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/sebolla-gif">
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sebolla-gif&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"
+      alt="Top Languages"
+    />
+  </a>
 </div>
+
 
